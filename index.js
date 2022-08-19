@@ -27,3 +27,4 @@ function calculate() {
   }
   document.getElementById('category').textContent = category;
 }
+calculate();
